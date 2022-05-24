@@ -25,13 +25,24 @@ h3{
     color: aqua !important;
     font-size: 4rem;
 }
- header nav ul {
-     margin: 30px;
-     display: flex;
-     justify-content: space-around;
 
+
+ header nav ul {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     justify-content: space-around;
+     height: 300px;
+     background-color: rgba(122, 131, 131, 0.327);
+     
 
  }
+
+
  header nav ul li a{
      font-size: 1.5rem;
+     
+
  }
+
+
