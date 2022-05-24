@@ -5,8 +5,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
 }
 
+/* Always use rem. Not pix or em ,becousue with rem user can change font size on your website */
 
 table tr th{
     color: brown;
@@ -22,3 +25,13 @@ h3{
     color: aqua !important;
     font-size: 4rem;
 }
+ header nav ul {
+     margin: 30px;
+     display: flex;
+     justify-content: space-around;
+
+
+ }
+ header nav ul li a{
+     font-size: 1.5rem;
+ }
