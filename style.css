@@ -1,3 +1,15 @@
+
+
 table tr th{
     color: brown;
+}
+#newtest{
+    color: blue ;
+}
+
+.myh3{
+    color: forestgreen;
+}
+h3{
+    color: aqua !important;
 }
