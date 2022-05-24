@@ -1,4 +1,12 @@
 
+/* Always need to use this three element to crat a website styling. Its can help to creat designe as you want not by defult */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 table tr th{
     color: brown;
@@ -12,4 +20,5 @@ table tr th{
 }
 h3{
     color: aqua !important;
+    font-size: 4rem;
 }
